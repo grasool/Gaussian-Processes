@@ -1,2 +1,2 @@
 # Gaussian-Processes
-Introduction to Gaussian Processes
+An Introduction to Gaussian Processes
