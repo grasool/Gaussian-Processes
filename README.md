@@ -20,3 +20,9 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 
 2.  **CS229: Machine Learning**. http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
 
+
+## Peer-reviewed and non-peer reviewed resources
+1.  **Gaussian Processes: A Quick Introduction** by Mark Ebden. https://arxiv.org/abs/1505.02965
+2.  **Gaussian Processes for Dummies** by Katherine Bailey. http://katbailey.github.io/post/gaussian-processes-for-dummies/
+3.  **Gaussian processes** by Martin Krasser. http://krasserm.github.io/2018/03/19/gaussian-processes/
+4.  **Fitting Gaussian Process Models in Python** by Chris Fonnesbeck. https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
