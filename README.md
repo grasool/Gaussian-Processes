@@ -13,7 +13,10 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 
 4.  **Information Theory, Inference and Learning Algorithms (Chapter 45)** by David J. C. MacKay. Links: Book http://www.inference.org.uk/mackay/itprnn/ps/534.548.pdf.
 
-5.  **Bayesian Reasoning and Machine Learning (Chapter 19)** by David Barber. Links http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf.
+5.  **Bayesian Reasoning and Machine Learning (Chapter 19)** by David Barber. http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf.
 
 ## Courses and Notes
-4.  **CS281: Advanced Machine Learning (Lecture 19)**. Links https://www.seas.harvard.edu/courses/cs281/.
+1.  **CS281: Advanced Machine Learning (Lecture 19)** Links https://www.seas.harvard.edu/courses/cs281/.
+
+2.  **CS229: Machine Learning**. http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
+
